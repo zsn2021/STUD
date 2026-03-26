@@ -27,7 +27,9 @@ Video results of the proposed **STUD** framework and its ablated variants in two
 
 ### OOD Scenario 1
 #### STUD (Full)
-<video src="[https://github.com/user-attachments/assets/d9745f34-b865-4a46-bce5-f2874bff3f85](https://github.com/user-attachments/assets/82196cf7-5a01-473d-a0db-9a06b35f7146)" width="800" controls></video>
+<video src="[https://github.com/user-attachments/assets/1e6fa01d-ad40-4d38-be29-71b3eef9c7ea](https://github.com/user-attachments/assets/7ca93bc0-7d0f-4a32-9cc5-b1307b47e98f)" width="800" controls></video>
+
+
 
 
 ##### Gaussian Distributions of the Probabilistic Ensemble Cost Critic
@@ -37,12 +39,20 @@ Video results of the proposed **STUD** framework and its ablated variants in two
 
 
 #### STUD w/o UA
-<video src="[https://github.com/user-attachments/assets/5f1c6004-154a-4be1-8228-3620e3c80ce5](https://github.com/user-attachments/assets/753a1d09-1ab7-4ee8-804f-59aea0a7465c)" width="800" controls></video>
+<video src="[[https://github.com/user-attachments/assets/5f1c6004-154a-4be1-8228-3620e3c80ce5](https://github.com/user-attachments/assets/753a1d09-1ab7-4ee8-804f-59aea0a7465c)](https://github.com/user-attachments/assets/df52a70d-a8f1-43ae-8eb5-c1f2729ffdf5)" width="800" controls></video>
+
+
+
+
 
 
 
 #### STUD w/o SF
-<video src="[https://github.com/user-attachments/assets/96c17068-efcf-484b-bba2-b1f2f18b61ee](https://github.com/user-attachments/assets/57301595-8f7b-400c-854a-a50d66c336d6)" width="800" controls></video>
+<video src="[[https://github.com/user-attachments/assets/96c17068-efcf-484b-bba2-b1f2f18b61ee](https://github.com/user-attachments/assets/57301595-8f7b-400c-854a-a50d66c336d6)](https://github.com/user-attachments/assets/5d0df571-2134-45ef-9a91-aa3f0fa030cd)" width="800" controls></video>
+
+
+
+
 
 
 
