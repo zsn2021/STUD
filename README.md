@@ -1,42 +1,22 @@
 ## Regular Scenario 1
-<p align="center">
-  <strong>Navigation Tasks: L1 | L2 | S1</strong>
-</p>
 
-<div style="display: flex; gap: 10px; width: 100%; justify-content: center;">
+### L1
+|   |   |   |
+|---|---|---|
+| ![scenario1-seed1_L1](https://github.com/user-attachments/assets/093f7adf-dbe1-46a5-98b7-42ae851aa849) | ![scenario1-seed5_L1](https://github.com/user-attachments/assets/196f44b3-5c0f-41c8-afcb-426889ba561c) | ![scenario1-seed8_L1](https://github.com/user-attachments/assets/311bd9dd-23f5-4181-a90f-713e01e20768) |
+| ![scenario1-seed9_L1](https://github.com/user-attachments/assets/caa50fb4-901d-4052-9e29-eb479d6c589a) | &nbsp; | &nbsp; |
 
-  <!-- L1 列 -->
-  <div style="flex: 1; text-align: center;">
-    <h4>🚗 L1 Navigation</h4>
-    <img src="https://github.com/user-attachments/assets/89923832-ed15-4bbb-bb89-480997e02143" 
-         style="width:100%; height:120px; object-fit:cover; border-radius:4px; margin-bottom:4px;">
-    <img src="https://github.com/user-attachments/assets/e79ef976-9ac5-4c70-89e2-f6ed03cc2440" 
-         style="width:100%; height:120px; object-fit:cover; border-radius:4px; margin-bottom:4px;">
-    <img src="https://github.com/user-attachments/assets/2c6f579c-35bf-4661-8fa7-d498bbf3910d" 
-         style="width:100%; height:120px; object-fit:cover; border-radius:4px; margin-bottom:4px;">
-    <img src="https://github.com/user-attachments/assets/bae1a418-db48-4a7a-ae13-3f89044ec3d7" 
-         style="width:100%; height:120px; object-fit:cover; border-radius:4px;">
-  </div>
+### L2
+|   |   |   |
+|---|---|---|
+| ![scenario1-seed0_L2](https://github.com/user-attachments/assets/2627f579-b14a-49d9-bbf0-b7fe8c93de0b) | ![scenario1-seed2_L2](https://github.com/user-attachments/assets/8a005087-ceeb-485b-b7bd-9534ec6641a6) | &nbsp; |
 
-  <!-- L2 列 -->
-  <div style="flex: 1; text-align: center;">
-    <h4>🚙 L2 Navigation</h4>
-    <img src="https://github.com/user-attachments/assets/9c4c3ec1-7c69-4dc8-be37-fb946df3ab0a" 
-         style="width:100%; height:248px; object-fit:cover; border-radius:4px; margin-bottom:4px;">
-    <img src="https://github.com/user-attachments/assets/5f9eb42d-ec11-4103-b5d1-8643042ce78c" 
-         style="width:100%; height:248px; object-fit:cover; border-radius:4px;">
-  </div>
+### S1
+|   |   |   |
+|---|---|---|
+| ![scenario1-seed4_S1](https://github.com/user-attachments/assets/b6530fb6-714e-4132-9121-53140f53d9c5) | ![scenario1-seed6_S1](https://github.com/user-attachments/assets/7a465490-9494-44a2-8dad-aa9482ac9d62) | &nbsp; |
 
-  <!-- S1 列 -->
-  <div style="flex: 1; text-align: center;">
-    <h4>🚛 S1 Navigation</h4>
-    <img src="https://github.com/user-attachments/assets/f3fad9cf-bffc-48ea-83a5-e2a91fb3fd5d" 
-         style="width:100%; height:248px; object-fit:cover; border-radius:4px; margin-bottom:4px;">
-    <img src="https://github.com/user-attachments/assets/496ad4a6-2d47-4a25-9859-a123ca539487" 
-         style="width:100%; height:248px; object-fit:cover; border-radius:4px;">
-  </div>
 
-</div>
 
 
 ## 🎥 Video Demonstrations
