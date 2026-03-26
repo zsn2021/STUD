@@ -1,3 +1,44 @@
+## Regular Scenario 1
+<p align="center">
+  <strong>Navigation Tasks: L1 | L2 | S1</strong>
+</p>
+
+<div style="display: flex; gap: 10px; width: 100%; justify-content: center;">
+
+  <!-- L1 列 -->
+  <div style="flex: 1; text-align: center;">
+    <h4>🚗 L1 Navigation</h4>
+    <img src="https://github.com/user-attachments/assets/89923832-ed15-4bbb-bb89-480997e02143" 
+         style="width:100%; height:120px; object-fit:cover; border-radius:4px; margin-bottom:4px;">
+    <img src="https://github.com/user-attachments/assets/e79ef976-9ac5-4c70-89e2-f6ed03cc2440" 
+         style="width:100%; height:120px; object-fit:cover; border-radius:4px; margin-bottom:4px;">
+    <img src="https://github.com/user-attachments/assets/2c6f579c-35bf-4661-8fa7-d498bbf3910d" 
+         style="width:100%; height:120px; object-fit:cover; border-radius:4px; margin-bottom:4px;">
+    <img src="https://github.com/user-attachments/assets/bae1a418-db48-4a7a-ae13-3f89044ec3d7" 
+         style="width:100%; height:120px; object-fit:cover; border-radius:4px;">
+  </div>
+
+  <!-- L2 列 -->
+  <div style="flex: 1; text-align: center;">
+    <h4>🚙 L2 Navigation</h4>
+    <img src="https://github.com/user-attachments/assets/9c4c3ec1-7c69-4dc8-be37-fb946df3ab0a" 
+         style="width:100%; height:248px; object-fit:cover; border-radius:4px; margin-bottom:4px;">
+    <img src="https://github.com/user-attachments/assets/5f9eb42d-ec11-4103-b5d1-8643042ce78c" 
+         style="width:100%; height:248px; object-fit:cover; border-radius:4px;">
+  </div>
+
+  <!-- S1 列 -->
+  <div style="flex: 1; text-align: center;">
+    <h4>🚛 S1 Navigation</h4>
+    <img src="https://github.com/user-attachments/assets/f3fad9cf-bffc-48ea-83a5-e2a91fb3fd5d" 
+         style="width:100%; height:248px; object-fit:cover; border-radius:4px; margin-bottom:4px;">
+    <img src="https://github.com/user-attachments/assets/496ad4a6-2d47-4a25-9859-a123ca539487" 
+         style="width:100%; height:248px; object-fit:cover; border-radius:4px;">
+  </div>
+
+</div>
+
+
 ## 🎥 Video Demonstrations
 Video results of the proposed **STUD** framework and its ablated variants in two Out-of-Distribution (OOD) driving scenarios for unsignalized intersection navigation.
 - **STUD**: Full framework (Safe Trajectory Optimization with Uncertainty-aware CBF)
