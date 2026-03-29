@@ -75,8 +75,8 @@ Evaluation videos of the proposed **STUD** framework in two regular driving scen
 <a id="video-demonstrations"></a>
 ## 🎥 Video Demonstrations
 Video results of the proposed **STUD** framework and its ablated variants in two Out-of-Distribution (OOD) driving scenarios for unsignalized intersection navigation.
-- **STUD**: STUD with UA-HOCBF-based safety filter
-- **STUD w/o UA**: STUD with HOCBF-based safety filter
+- **STUD**: STUD with UA-HOCBF
+- **STUD w/o UA**: STUD with standard HOCBF
 - **STUD w/o SF**: STUD without safety filtering
 
 <a id="ood-scenario-1"></a>
