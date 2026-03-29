@@ -1,6 +1,16 @@
 # STUD: Safe Training and Uncertainty-aware Deployment via Constrained Reinforcement Learning with Safety Filtering for Autonomous Navigation at Unsignalized Intersections
 
-## 🎬 Regular Scenario Demonstrations
+
+## 📑 Table of Contents
+- [Regular Scenarios Demonstrations](#-regular-scenarios-demonstrations)
+  - [Regular Scenario 1](#regular-scenario-1)
+  - [Regular Scenario 2](#regular-scenario-2)
+- [OOD Scenarios Demonstrations](#-ood-scenarios-demonstrations)
+  - [OOD Scenario 1](#ood-scenario-1)
+  - [OOD Scenario 2](#ood-scenario-2)
+
+
+## 🎬 Regular Scenarios Demonstrations
 Evaluation videos of the proposed **STUD** framework in two regular driving scenarios for unsignalized intersection navigation.
 
 ### Regular Scenario 1
@@ -43,7 +53,7 @@ Evaluation videos of the proposed **STUD** framework in two regular driving scen
 |---|---|---|
 | <img src="https://github.com/user-attachments/assets/f5bafcf0-3e4b-4fa6-9ca1-0abb7b5d90b8" alt="scenario2-seed4_S2" width="250"> | <img src="https://github.com/user-attachments/assets/06bff9b6-bb0c-4431-b286-9d793fe9c503" alt="scenario2-seed6_S2" width="250"> | <img src="https://github.com/user-attachments/assets/e5363347-b1eb-4921-95e3-8b0f13665124" alt="scenario2-seed12_S2" width="250"> |
 
-## 🎥 Video Demonstrations
+## 🎥 OOD Scenarios Demonstrations
 Video results of the proposed **STUD** framework and its ablated variants in two Out-of-Distribution (OOD) driving scenarios for unsignalized intersection navigation.
 
 - **STUD**: STUD with UA-HOCBF
