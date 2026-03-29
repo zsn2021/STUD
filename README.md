@@ -95,3 +95,11 @@ Video results of the proposed **STUD** framework and its ablated variants in two
 #### STUD w/o SF
 
 <video src="https://github.com/user-attachments/assets/ec027781-e57a-405f-904d-05ab1691ef5b" width="800" controls></video>
+
+## ❤️ Acknowledgements
+
+We gratefully acknowledge the open-source repositories **HighwayEnv** and **FSRL**, which provide essential support for environment construction and safe reinforcement learning implementation in this project.  
+- **HighwayEnv**: [https://github.com/Farama-Foundation/HighwayEnv  ](https://github.com/Farama-Foundation/HighwayEnv)
+- **FSRL**: [https://github.com/zsn2021/FSRL](https://github.com/liuzuxin/FSRL)
+
+
