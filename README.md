@@ -60,41 +60,52 @@ Video results of the proposed **STUD** framework and its ablated variants in two
 - **STUD w/o UA**: STUD with standard HOCBF
 - **STUD w/o SF**: STUD without safety filtering
 
-### OOD Scenario 1
+### OOD Case 1
 
 #### STUD (Full)
 
-<video src="https://github.com/user-attachments/assets/426a6307-eb7f-4dd1-b1da-c7e1221e7f24" width="800" controls></video>
-
-##### Gaussian Distributions of the Probabilistic Ensemble Cost Critic
-
-![OOD1-Probabilistic_Ensemble_Cost_Critic](https://github.com/user-attachments/assets/8ac73aed-87e2-4229-8abc-fdb8b887f28e)
+<video src="https://github.com/user-attachments/assets/0dc9bcf6-a362-421b-a851-c49fff66ef40" width="800" controls></video>
 
 #### STUD w/o UA
 
-<video src="https://github.com/user-attachments/assets/990aa28a-925b-4a7c-a447-ce32ace24adc" width="800" controls></video>
+<video src="https://github.com/user-attachments/assets/6746b3fe-b70f-48ea-a138-c7ca803fd487" width="800" controls></video>
 
 #### STUD w/o SF
 
-<video src="https://github.com/user-attachments/assets/b39809f9-4d8b-4e12-8257-692a2b934a41" width="800" controls></video>
+<video src="https://github.com/user-attachments/assets/d329367d-9e32-46e1-96a1-45fa4a7c1def" width="800" controls></video>
 
-### OOD Scenario 2
+### OOD Case 2
+
+#### STUD (Full)
+
+<video src="https://github.com/user-attachments/assets/3d3675e6-c2bc-4501-a38f-fc31eb896f7f" width="800" controls></video>
+
+#### STUD w/o UA
+
+<video src="https://github.com/user-attachments/assets/ac7cacca-2575-441d-8208-e60e6c3ffbab" width="800" controls></video>
+
+#### STUD w/o SF
+
+<video src="https://github.com/user-attachments/assets/10f69ac9-633a-4fdc-97bb-02ee587a5d7a" width="800" controls></video>
+
+### OOD Case 3
 
 #### STUD (Full)
 
 <video src="https://github.com/user-attachments/assets/a597a86b-8977-4b13-9f6b-3893ca840e2c" width="800" controls></video>
 
-##### Gaussian Distributions of the Probabilistic Ensemble Cost Critic
-
-![OOD2-Probabilistic_Ensemble_Cost_Critic](https://github.com/user-attachments/assets/b15a0c90-c131-4a56-8c16-7e7f48d9bb65)
+https://github.com/user-attachments/assets/7e7d2aff-99cb-4eee-8db4-5f9e4ab09ecd
 
 #### STUD w/o UA
 
-<video src="https://github.com/user-attachments/assets/ec8178aa-306f-40ef-8911-1bf51dd8a111" width="800" controls></video>
+<video src="https://github.com/user-attachments/assets/754394fd-bf7b-4ade-8ead-6bce940bbe9b" width="800" controls></video>
 
 #### STUD w/o SF
 
-<video src="https://github.com/user-attachments/assets/ec027781-e57a-405f-904d-05ab1691ef5b" width="800" controls></video>
+<video src="https://github.com/user-attachments/assets/5bc1ad34-fa48-4016-a1ce-f0c4260f10f9" width="800" controls></video>
+
+
+
 
 ## ❤️ Acknowledgements
 
