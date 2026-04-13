@@ -55,45 +55,60 @@ Evaluation videos of the proposed **STUD** framework in two regular driving scen
 | <img src="https://github.com/user-attachments/assets/f5bafcf0-3e4b-4fa6-9ca1-0abb7b5d90b8" alt="scenario2-seed4_S2" width="250"> | <img src="https://github.com/user-attachments/assets/06bff9b6-bb0c-4431-b286-9d793fe9c503" alt="scenario2-seed6_S2" width="250"> | <img src="https://github.com/user-attachments/assets/e5363347-b1eb-4921-95e3-8b0f13665124" alt="scenario2-seed12_S2" width="250"> |
 
 ## 🎥 OOD Scenarios Demonstrations
-Video results of the proposed **STUD** framework and its ablated variants in two Out-of-Distribution (OOD) driving scenarios for unsignalized intersection navigation.
 
-- **STUD**: STUD with UA-HOCBF
-- **STUD w/o UA**: STUD with standard HOCBF
-- **STUD w/o SF**: STUD without safety filtering
+Video results of the proposed **STUD** framework and its ablated variants in three Out-of-Distribution (OOD) driving scenarios for unsignalized intersection navigation.
+
+- **STUD**: STUD with UA-HOCBF  
+- **STUD w/o UA**: STUD with standard HOCBF  
+- **STUD w/o SF**: STUD without safety filtering  
+
+---
 
 ### OOD Case 1
+#### Navigation Task: L1
 
-#### Trajectories of STUD and its ablation variants
-<img width="1417" height="992" alt="3 2OOD1speed-3d" src="https://github.com/user-attachments/assets/934bdbf3-825b-4e88-9cd6-85744ceaad3e" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/934bdbf3-825b-4e88-9cd6-85744ceaad3e" width="500"/>
+</p>
+<p align="center"><em>Trajectories of STUD and its ablation variants in navigation task L1.</em></p>
 
-#### STUD (Full)
+##### STUD (Full)
 <video src="https://github.com/user-attachments/assets/0dc9bcf6-a362-421b-a851-c49fff66ef40" width="800" controls></video>
 
-#### STUD w/o UA
+##### STUD w/o UA
 <video src="https://github.com/user-attachments/assets/6746b3fe-b70f-48ea-a138-c7ca803fd487" width="800" controls></video>
 
-#### STUD w/o SF
+##### STUD w/o SF
 <video src="https://github.com/user-attachments/assets/d329367d-9e32-46e1-96a1-45fa4a7c1def" width="800" controls></video>
 
+---
+
 ### OOD Case 2
+#### Navigation Task: L2
 
-#### Trajectories of STUD and its ablation variants
-<img width="1417" height="992" alt="3 200D2speed-3d" src="https://github.com/user-attachments/assets/8d166315-4515-4a39-a65e-f4cd46fd5238" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d166315-4515-4a39-a65e-f4cd46fd5238" width="500"/>
+</p>
+<p align="center"><em>Trajectories of STUD and its ablation variants in navigation task L2.</em></p>
 
-
-#### STUD (Full)
+##### STUD (Full)
 <video src="https://github.com/user-attachments/assets/3d3675e6-c2bc-4501-a38f-fc31eb896f7f" width="800" controls></video>
 
-#### STUD w/o UA
+##### STUD w/o UA
 <video src="https://github.com/user-attachments/assets/ac7cacca-2575-441d-8208-e60e6c3ffbab" width="800" controls></video>
 
-#### STUD w/o SF
+##### STUD w/o SF
 <video src="https://github.com/user-attachments/assets/10f69ac9-633a-4fdc-97bb-02ee587a5d7a" width="800" controls></video>
 
-### OOD Case 3
+---
 
-#### Trajectories of STUD and its ablation variants
-<img width="1417" height="992" alt="3 200D3speed-3d" src="https://github.com/user-attachments/assets/a6318b6f-84cf-408c-880c-0eae07fcf9b8" />
+### OOD Case 3
+#### Navigation Task: S2
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a6318b6f-84cf-408c-880c-0eae07fcf9b8" width="500"/>
+</p>
+<p align="center"><em>Trajectories of STUD and its ablation variants in navigation task S1.</em></p>
 
 #### STUD (Full)
 <video src="https://github.com/user-attachments/assets/7e7d2aff-99cb-4eee-8db4-5f9e4ab09ecd" width="800" controls></video>
