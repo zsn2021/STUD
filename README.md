@@ -6,8 +6,9 @@
   - [Regular Scenario 1](#regular-scenario-1)
   - [Regular Scenario 2](#regular-scenario-2)
 - [OOD Scenarios Demonstrations](#-ood-scenarios-demonstrations)
-  - [OOD Scenario 1](#ood-scenario-1)
-  - [OOD Scenario 2](#ood-scenario-2)
+  - [OOD Case 1](#ood-case-1)
+  - [OOD Case 2](#ood-case-2)
+  - [OOD Case 3](#ood-case-3)
 
 
 ## 🎬 Regular Scenarios Demonstrations
@@ -62,50 +63,46 @@ Video results of the proposed **STUD** framework and its ablated variants in two
 
 ### OOD Case 1
 
-#### STUD (Full)
+#### Trajectories of STUD and its ablation variants
+<img width="1417" height="992" alt="3 2OOD1speed-3d" src="https://github.com/user-attachments/assets/934bdbf3-825b-4e88-9cd6-85744ceaad3e" />
 
+#### STUD (Full)
 <video src="https://github.com/user-attachments/assets/0dc9bcf6-a362-421b-a851-c49fff66ef40" width="800" controls></video>
 
 #### STUD w/o UA
-
 <video src="https://github.com/user-attachments/assets/6746b3fe-b70f-48ea-a138-c7ca803fd487" width="800" controls></video>
 
 #### STUD w/o SF
-
 <video src="https://github.com/user-attachments/assets/d329367d-9e32-46e1-96a1-45fa4a7c1def" width="800" controls></video>
 
 ### OOD Case 2
 
-#### STUD (Full)
+#### Trajectories of STUD and its ablation variants
+<img width="1417" height="992" alt="3 200D2speed-3d" src="https://github.com/user-attachments/assets/8d166315-4515-4a39-a65e-f4cd46fd5238" />
 
+
+#### STUD (Full)
 <video src="https://github.com/user-attachments/assets/3d3675e6-c2bc-4501-a38f-fc31eb896f7f" width="800" controls></video>
 
 #### STUD w/o UA
-
 <video src="https://github.com/user-attachments/assets/ac7cacca-2575-441d-8208-e60e6c3ffbab" width="800" controls></video>
 
 #### STUD w/o SF
-
 <video src="https://github.com/user-attachments/assets/10f69ac9-633a-4fdc-97bb-02ee587a5d7a" width="800" controls></video>
 
 ### OOD Case 3
 
+#### Trajectories of STUD and its ablation variants
+<img width="1417" height="992" alt="3 200D3speed-3d" src="https://github.com/user-attachments/assets/a6318b6f-84cf-408c-880c-0eae07fcf9b8" />
+
 #### STUD (Full)
-
-<video src="https://github.com/user-attachments/assets/a597a86b-8977-4b13-9f6b-3893ca840e2c" width="800" controls></video>
-
-https://github.com/user-attachments/assets/7e7d2aff-99cb-4eee-8db4-5f9e4ab09ecd
+<video src="https://github.com/user-attachments/assets/7e7d2aff-99cb-4eee-8db4-5f9e4ab09ecd" width="800" controls></video>
 
 #### STUD w/o UA
-
 <video src="https://github.com/user-attachments/assets/754394fd-bf7b-4ade-8ead-6bce940bbe9b" width="800" controls></video>
 
 #### STUD w/o SF
-
 <video src="https://github.com/user-attachments/assets/5bc1ad34-fa48-4016-a1ce-f0c4260f10f9" width="800" controls></video>
-
-
-
 
 ## ❤️ Acknowledgements
 
