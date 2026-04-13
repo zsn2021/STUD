@@ -68,9 +68,11 @@ Video results of the proposed **STUD** framework and its ablated variants in thr
 #### Navigation Task: L1
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/934bdbf3-825b-4e88-9cd6-85744ceaad3e" width="500"/>
+  <img src="https://github.com/user-attachments/assets/bf5d0a49-068f-41b9-9485-77afaffabaf1" width="500"/>
 </p>
 <p align="center"><em>Trajectories of STUD and its ablation variants in navigation task L1.</em></p>
+
+
 
 ##### STUD (Full)
 <video src="https://github.com/user-attachments/assets/0dc9bcf6-a362-421b-a851-c49fff66ef40" width="800" controls></video>
@@ -87,9 +89,11 @@ Video results of the proposed **STUD** framework and its ablated variants in thr
 #### Navigation Task: L2
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8d166315-4515-4a39-a65e-f4cd46fd5238" width="500"/>
+  <img src="https://github.com/user-attachments/assets/9d72fb0b-59f0-4033-afa1-4e401e63f1f0" width="500"/>
 </p>
 <p align="center"><em>Trajectories of STUD and its ablation variants in navigation task L2.</em></p>
+
+
 
 ##### STUD (Full)
 <video src="https://github.com/user-attachments/assets/3d3675e6-c2bc-4501-a38f-fc31eb896f7f" width="800" controls></video>
@@ -106,9 +110,11 @@ Video results of the proposed **STUD** framework and its ablated variants in thr
 #### Navigation Task: S2
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6318b6f-84cf-408c-880c-0eae07fcf9b8" width="500"/>
+  <img src="https://github.com/user-attachments/assets/da5b9d02-9260-4bfe-a857-08f36730a774" width="500"/>
 </p>
 <p align="center"><em>Trajectories of STUD and its ablation variants in navigation task S1.</em></p>
+
+
 
 #### STUD (Full)
 <video src="https://github.com/user-attachments/assets/7e7d2aff-99cb-4eee-8db4-5f9e4ab09ecd" width="800" controls></video>
