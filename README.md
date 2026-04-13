@@ -1,4 +1,4 @@
-# STUD: Safe Training and Uncertainty-aware Deployment via Constrained Reinforcement Learning with Safety Filtering for Autonomous Navigation at Unsignalized Intersections
+# Safe Training and Uncertainty-aware Deployment for Autonomous Navigation at Unsignalized Intersections via Constrained Reinforcement Learning with Safety Filtering
 
 
 ## 📑 Table of Contents
