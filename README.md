@@ -75,13 +75,17 @@ Video results of the proposed **STUD** framework and its ablated variants in thr
 
 
 ##### STUD (Full)
-<video src="https://github.com/user-attachments/assets/0dc9bcf6-a362-421b-a851-c49fff66ef40" width="800" controls></video>
+<video src="https://github.com/user-attachments/assets/5bb5caaa-28d5-417b-b9c5-da848f0b48d5" width="800" controls></video>
 
 ##### STUD w/o UA
-<video src="https://github.com/user-attachments/assets/6746b3fe-b70f-48ea-a138-c7ca803fd487" width="800" controls></video>
+<video src="https://github.com/user-attachments/assets/6757d421-e70e-4dbb-bb75-82a4dbb6bdf2" width="800" controls></video>
 
 ##### STUD w/o SF
-<video src="https://github.com/user-attachments/assets/d329367d-9e32-46e1-96a1-45fa4a7c1def" width="800" controls></video>
+<video src="https://github.com/user-attachments/assets/e6c44ccd-b0f8-4fe1-8579-4c8beefa3255" width="800" controls></video>
+
+
+
+
 
 ---
 
@@ -96,18 +100,22 @@ Video results of the proposed **STUD** framework and its ablated variants in thr
 
 
 ##### STUD (Full)
-<video src="https://github.com/user-attachments/assets/3d3675e6-c2bc-4501-a38f-fc31eb896f7f" width="800" controls></video>
+<video src="https://github.com/user-attachments/assets/90ac58b5-128a-4aa8-af58-5ab836fa164c" width="800" controls></video>
 
 ##### STUD w/o UA
-<video src="https://github.com/user-attachments/assets/ac7cacca-2575-441d-8208-e60e6c3ffbab" width="800" controls></video>
+<video src="https://github.com/user-attachments/assets/ceb49318-7046-4f4b-b8df-a449fc4c77db" width="800" controls></video>
 
 ##### STUD w/o SF
-<video src="https://github.com/user-attachments/assets/10f69ac9-633a-4fdc-97bb-02ee587a5d7a" width="800" controls></video>
+<video src="https://github.com/user-attachments/assets/b652e615-e286-4b1b-9fab-136960b3b3fc" width="800" controls></video>
+
+
+
+
 
 ---
 
 ### OOD Case 3
-#### Navigation Task: S2
+#### Navigation Task: S1
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/da5b9d02-9260-4bfe-a857-08f36730a774" width="500"/>
@@ -115,15 +123,16 @@ Video results of the proposed **STUD** framework and its ablated variants in thr
 <p align="center"><em>Trajectories of STUD and its ablation variants in navigation task S1.</em></p>
 
 
-
 #### STUD (Full)
-<video src="https://github.com/user-attachments/assets/7e7d2aff-99cb-4eee-8db4-5f9e4ab09ecd" width="800" controls></video>
+<video src="https://github.com/user-attachments/assets/6f9bb8a6-7650-4dc2-97af-c646972e828f" width="800" controls></video>
 
 #### STUD w/o UA
-<video src="https://github.com/user-attachments/assets/754394fd-bf7b-4ade-8ead-6bce940bbe9b" width="800" controls></video>
+<video src="https://github.com/user-attachments/assets/07249603-ee7c-4976-9982-19b83794e1b6" width="800" controls></video>
 
 #### STUD w/o SF
-<video src="https://github.com/user-attachments/assets/5bc1ad34-fa48-4016-a1ce-f0c4260f10f9" width="800" controls></video>
+<video src="https://github.com/user-attachments/assets/8b6c2875-5b90-4e8b-af70-d208a863be7c" width="800" controls></video>
+
+
 
 ## ❤️ Acknowledgements
 
